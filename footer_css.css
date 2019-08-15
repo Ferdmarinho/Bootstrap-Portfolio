@@ -1,0 +1,14 @@
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+.footer p{
+}
+
+body {
+    padding-bottom: 60px;
+}
