@@ -1,14 +1,12 @@
-
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 40px;
     line-height: 40px;
+    margin-top: 20px;
 }
-.footer p{
+.prefooter {
+    height: 60px;
 }
 
-body {
-    padding-bottom: 60px;
-}
