@@ -19,6 +19,10 @@
     color: #fff;
     text-decoration: none;
   }
+
+  .show-inline {
+    padding-top: 10px;
+  }
   
   /*
    * Dummy devices (replace them with your own or something else entirely!)
